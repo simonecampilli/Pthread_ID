@@ -1,0 +1,3 @@
+C:/Users/simoc/Desktop/Industrial_Informatic/Pthreads/cmake-build-debug/CMakeFiles/Pthreads.dir
+C:/Users/simoc/Desktop/Industrial_Informatic/Pthreads/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/simoc/Desktop/Industrial_Informatic/Pthreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
